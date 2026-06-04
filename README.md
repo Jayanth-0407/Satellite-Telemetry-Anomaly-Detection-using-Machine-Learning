@@ -1,4 +1,4 @@
-# 🛰️ Spacecraft Telemetry Anomaly Detection: Mitigating Sim-to-Real Domain Shift
+# 🛰️ Satellite Telemetry Anomaly Detection using Machine learning
 
 ## 📖 Overview
 This repository contains the machine learning pipeline developed to detect hardware faults and systemic anomalies in the telemetry of the EIRSAT-1 spacecraft. 
