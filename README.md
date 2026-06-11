@@ -1,4 +1,4 @@
-# 🛰️ Satellite Telemetry Anomaly Detection using Machine learning
+# 🛰️ Satellite Telemetry Anomaly Detection using Machine Learning
 
 ## 📖 Overview
 This repository contains the machine learning pipeline developed to detect hardware faults and systemic anomalies in the telemetry of the EIRSAT-1 spacecraft. 
