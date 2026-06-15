@@ -38,5 +38,5 @@ Ensure you have Python 3.8+ installed.
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/YourUsername/EIRSAT-1-Anomaly-Detection.git](https://github.com/YourUsername/EIRSAT-1-Anomaly-Detection.git)
+git clone https://github.com/YourUsername/EIRSAT-1-Anomaly-Detection.git
 cd EIRSAT-1-Anomaly-Detection
